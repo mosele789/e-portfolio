@@ -16,8 +16,7 @@
 
 ## 🔷 About This Portfolio
 
-This repository showcases beginner-friendly, **resume-ready Azure projects** that I personally built using **Azure Cloud Shell**, **Bash scripting**, and **Linux VMs**.  
-Each PDF below includes detailed steps, command-line examples, and screenshots.
+This repository showcases beginner-friendly, **resume-ready Azure projects** that I personally built using **Azure Cloud Shell**, **Bash scripting**, and **Linux VMs**. Each PDF below includes detailed steps, command-line examples, and screenshots.
 
 ---
 
@@ -69,10 +68,10 @@ Each PDF below includes detailed steps, command-line examples, and screenshots.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/mr78">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/mosele789/e-portfolio">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github">
   </a>
 </p>
