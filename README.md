@@ -35,6 +35,6 @@ Each project below includes a downloadable PDF with step-by-step documentation, 
 
 ### 📫 Connect With Me
 - **LinkedIn:** [www.linkedin.com/in/mr78]
-- **GitHub:** [Your GitHub URL]
+- **GitHub:** [www.https://github.com/mosele789]
 
                 
